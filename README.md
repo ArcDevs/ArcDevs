@@ -80,8 +80,8 @@ Our AI systems don’t serve — they **command.**
 - 🧭 **Location**: India
 - 🌍 **Website**: [Coming Soon](#)
 - 📧 **Email**: arcdev.90@gmail.com
-- 🐦 **X (Twitter)**: [@ArcDevs_AI](https://x.com/TheArcDevs)
-- 🐦 **Instagram (Instagram)**: [@ArcDevs_AI](https://instagram.com/TheArcDevs)
+- 🐦 **X**: [@ArcDevs_AI](https://x.com/TheArcDevs)
+- 🐦 **Instagram**: [@ArcDevs_AI](https://instagram.com/TheArcDevs)
 
 ---
 
