@@ -99,7 +99,7 @@ Task automation, secure communication, file handling, self-updating protocols.
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github.dev/ArcDevs/ArcDevs/blob/main/logo.svg" width="120" height="120" style="border-radius: 50%; border: 3px solid #9113fe;"/>
+<img src="logo.svg" width="120" height="120" style="border-radius: 50%; border: 3px solid #9113fe;"/>
 
 ### 🧊 **Kobula**
 *The Silent Force*
@@ -114,7 +114,7 @@ Creator of FALCON, Riko, ArcMind
 </td>
 <td align="center" width="50%">
 
-<img src="https://github.dev/ArcDevs/ArcDevs/blob/main/logo.svg" width="120" height="120" style="border-radius: 50%; border: 3px solid #9113fe;"/>
+<img src="logo.svg" width="120" height="120" style="border-radius: 50%; border: 3px solid #9113fe;"/>
 
 ### 🧠 **Utkarsh Rishi**
 *The Young Visionary*
